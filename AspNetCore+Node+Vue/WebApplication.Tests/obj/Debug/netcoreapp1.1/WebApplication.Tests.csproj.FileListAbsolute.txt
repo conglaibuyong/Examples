@@ -1,0 +1,9 @@
+C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\bin\Debug\netcoreapp1.1\WebApplication.Tests.deps.json
+C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\bin\Debug\netcoreapp1.1\WebApplication.Tests.runtimeconfig.json
+C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\bin\Debug\netcoreapp1.1\WebApplication.Tests.runtimeconfig.dev.json
+C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\bin\Debug\netcoreapp1.1\WebApplication.Tests.dll
+C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\bin\Debug\netcoreapp1.1\WebApplication.Tests.pdb
+C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\obj\Debug\netcoreapp1.1\WebApplication.Tests.AssemblyInfo.cs
+C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\obj\Debug\netcoreapp1.1\WebApplication.Tests.dll
+C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\obj\Debug\netcoreapp1.1\WebApplication.Tests.pdb
+C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\obj\Debug\netcoreapp1.1\WebApplication.Tests.csprojResolveAssemblyReference.cache
