@@ -32,6 +32,8 @@ namespace WebApplication.Tests
 
             services.AddNodeServices(options =>
             {
+                //options.LaunchWithDebugging = true;
+                //options.DebuggingPort = 9229;
             });
         }
 

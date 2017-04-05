@@ -7,3 +7,12 @@ C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\obj\Debug\netco
 C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\obj\Debug\netcoreapp1.1\WebApplication.Tests.dll
 C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\obj\Debug\netcoreapp1.1\WebApplication.Tests.pdb
 C:\Users\FengW\Desktop\WebApplication.Tests\WebApplication.Tests\obj\Debug\netcoreapp1.1\WebApplication.Tests.csprojResolveAssemblyReference.cache
+D:\github\Examples\AspNetCore+Node+Vue\WebApplication.Tests\bin\Debug\netcoreapp1.1\WebApplication.Tests.deps.json
+D:\github\Examples\AspNetCore+Node+Vue\WebApplication.Tests\bin\Debug\netcoreapp1.1\WebApplication.Tests.runtimeconfig.json
+D:\github\Examples\AspNetCore+Node+Vue\WebApplication.Tests\bin\Debug\netcoreapp1.1\WebApplication.Tests.runtimeconfig.dev.json
+D:\github\Examples\AspNetCore+Node+Vue\WebApplication.Tests\bin\Debug\netcoreapp1.1\WebApplication.Tests.dll
+D:\github\Examples\AspNetCore+Node+Vue\WebApplication.Tests\bin\Debug\netcoreapp1.1\WebApplication.Tests.pdb
+D:\github\Examples\AspNetCore+Node+Vue\WebApplication.Tests\obj\Debug\netcoreapp1.1\WebApplication.Tests.csprojResolveAssemblyReference.cache
+D:\github\Examples\AspNetCore+Node+Vue\WebApplication.Tests\obj\Debug\netcoreapp1.1\WebApplication.Tests.AssemblyInfo.cs
+D:\github\Examples\AspNetCore+Node+Vue\WebApplication.Tests\obj\Debug\netcoreapp1.1\WebApplication.Tests.dll
+D:\github\Examples\AspNetCore+Node+Vue\WebApplication.Tests\obj\Debug\netcoreapp1.1\WebApplication.Tests.pdb

@@ -9872,10 +9872,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FengW\\Desktop\\WebApplication.Tests\\WebApplication.Tests\\WebApplication.Tests.csproj",
+      "projectUniqueName": "D:\\github\\Examples\\AspNetCore+Node+Vue\\WebApplication.Tests\\WebApplication.Tests.csproj",
       "projectName": "WebApplication.Tests",
-      "projectPath": "C:\\Users\\FengW\\Desktop\\WebApplication.Tests\\WebApplication.Tests\\WebApplication.Tests.csproj",
-      "outputPath": "C:\\Users\\FengW\\Desktop\\WebApplication.Tests\\WebApplication.Tests\\obj\\",
+      "projectPath": "D:\\github\\Examples\\AspNetCore+Node+Vue\\WebApplication.Tests\\WebApplication.Tests.csproj",
+      "outputPath": "D:\\github\\Examples\\AspNetCore+Node+Vue\\WebApplication.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
