@@ -1,0 +1,11 @@
+services:
+  ufop-netcore-demo:
+    build:
+      context: D:\github\ufop-netcore-demo\ufop-netcore-demo
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ufop-netcore-demo
+    ports:
+    - 80/tcp
+version: '3.0'

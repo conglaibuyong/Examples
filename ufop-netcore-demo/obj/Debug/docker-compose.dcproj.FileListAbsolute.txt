@@ -1,0 +1,1 @@
+D:\github\ufop-netcore-demo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
