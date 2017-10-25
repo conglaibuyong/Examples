@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\github\\ufop-netcore-demo\\ufop-netcore-demo\\ufop-netcore-demo.csproj",
+      "projectUniqueName": "D:\\github\\Examples\\ufop-netcore-demo\\ufop-netcore-demo\\ufop-netcore-demo.csproj",
       "projectName": "ufop-netcore-demo",
-      "projectPath": "D:\\github\\ufop-netcore-demo\\ufop-netcore-demo\\ufop-netcore-demo.csproj",
+      "projectPath": "D:\\github\\Examples\\ufop-netcore-demo\\ufop-netcore-demo\\ufop-netcore-demo.csproj",
       "packagesPath": "C:\\Users\\FengW\\.nuget\\packages\\",
-      "outputPath": "D:\\github\\ufop-netcore-demo\\ufop-netcore-demo\\obj\\",
+      "outputPath": "D:\\github\\Examples\\ufop-netcore-demo\\ufop-netcore-demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
