@@ -1,4 +1,4 @@
 bin
 obj
 .vs/
-ufop-netcore-demo/.vs/
+*.suo
